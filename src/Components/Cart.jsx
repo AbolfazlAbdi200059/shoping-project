@@ -5,6 +5,8 @@ const Cart = () => {
 
     const Product = useProduct();
 
+    console.log("hello World!");
+
     const {total , discount} = useProduct();
 
     return (
