@@ -2,6 +2,8 @@ import Navigation from "./Navigation";
 import Data from "../Data/Data";
 import Product from "./Product";
 
+console.log("hello master abolfazl");
+
 const HomePage = () => {
     return (  
         <div className="HomePage">
